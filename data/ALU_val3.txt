@@ -1,0 +1,15 @@
+[Prompt 1]
+Q: What is African Leadership University (ALU)?
+A: ALU is committed to transforming higher education in Africa by developing ethical and entrepreneurial leaders. It has campuses in Rwanda and Mauritius and offers a unique learning experience focused on real-world problem-solving and leadership development.
+
+[Prompt 2]
+Q: Where are ALU campuses located?
+A: ALU has campuses in Rwanda and Mauritius.
+
+[Prompt 3]
+Q: What makes ALU's learning experience unique?
+A: ALU emphasizes real-world problem-solving, leadership development, and encourages students to declare missions rather than traditional majors.
+
+[Prompt 4]
+Q: What is the BSc (Hons) International Business and Trade program about?
+A: It prepares leaders to navigate global business complexities and drive Africa’s economic integration, covering topics like international trade, regional integration, and global supply chain management.

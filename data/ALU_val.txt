@@ -2,14 +2,14 @@
 
 [Prompt 1]
 Q: What is African Leadership University?
-A: African Leadership University (ALU) is committed to transforming higher education in Africa by developing ethical and entrepreneurial leaders. With campuses in Rwanda and Mauritius, ALU offers a unique learning experience that emphasizes real-world problem-solving and leadership development.
+A: African Leadership University (ALU) is a university committed to transforming higher education in Africa by developing ethical and entrepreneurial leaders. With campuses in Rwanda and Mauritius, ALU offers a unique learning experience that emphasizes real-world problem-solving and leadership development.
 
 [Prompt 2]
 Q: What programs are offered at ALU?
 A: ALU offers a variety of programs, including:
+   - BSc (Hons) Software Engineering: In partnership with the Holberton School, this program builds industry-relevant software engineering skills.
    - BSc (Hons) International Business and Trade (IBT): Focuses on global business, international trade, and economic integration.
    - BSc (Hons) Entrepreneurial Leadership: Emphasizes leadership, innovation, and practical problem-solving.
-   - BSc (Hons) Software Engineering: In partnership with the Holberton School, this program builds industry-relevant software engineering skills.
 
 [Prompt 3]
 Q: How do I apply to ALU?

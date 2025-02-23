@@ -1,0 +1,35 @@
+[Prompt 1]
+Q: What is African Leadership University (ALU)?
+A: ALU is committed to transforming higher education in Africa by developing ethical and entrepreneurial leaders. It has campuses in Rwanda and Mauritius and offers a unique learning experience focused on real-world problem-solving and leadership development.
+
+[Prompt 4]
+Q: What is the BSc (Hons) International Business and Trade program about?
+A: It prepares leaders to navigate global business complexities and drive Africa’s economic integration, covering topics like international trade, regional integration, and global supply chain management.
+
+[Prompt 5]
+Q: How long does the BSc (Hons) International Business and Trade program take to complete?
+A: 3 years.
+
+[Prompt 6]
+Q: What is the BSc (Hons) Entrepreneurial Leadership program about?
+A: It nurtures future leaders with entrepreneurial skills, focusing on innovation, problem-solving, and leadership through experiential learning, including internships and community projects.
+
+[Prompt 7]
+Q: What is the duration of the BSc (Hons) Entrepreneurial Leadership program?
+A: 3 years.
+
+[Prompt 9]
+Q: How long is the BSc (Hons) Software Engineering program?
+A: 3 years.
+
+[Prompt 11]
+Q: What are the general admission requirements at ALU?
+A: Applicants must have at least two principal passes in final national secondary school examinations, demonstrate English proficiency at a B2 level, and be at least 16 years old.
+
+[Prompt 16]
+Q: Can I transfer to ALU from another university?
+A: Yes, but transfer credits are reviewed individually and are not guaranteed.
+
+[Prompt 17]
+Q: How long does it take to receive an admissions decision?
+A: Decisions are typically provided within two weeks of submission.
