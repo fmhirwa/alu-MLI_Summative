@@ -1,0 +1,24 @@
+﻿African Leadership University (ALU) Evaluation Data
+
+[Prompt 1]
+Q: What is African Leadership University?
+A: African Leadership University (ALU) is committed to transforming higher education in Africa by developing ethical and entrepreneurial leaders. With campuses in Rwanda and Mauritius, ALU offers a unique learning experience that emphasizes real-world problem-solving and leadership development.
+
+[Prompt 2]
+Q: What programs are offered at ALU?
+A: ALU offers a variety of programs, including:
+   - BSc (Hons) International Business and Trade (IBT): Focuses on global business, international trade, and economic integration.
+   - BSc (Hons) Entrepreneurial Leadership: Emphasizes leadership, innovation, and practical problem-solving.
+   - BSc (Hons) Software Engineering: In partnership with the Holberton School, this program builds industry-relevant software engineering skills.
+
+[Prompt 3]
+Q: How do I apply to ALU?
+A: The ALU application is completed online. Applicants must fill out a basic form with personal details, submit supporting documents (such as academic transcripts and identification), and review financial commitments and available aid options.
+
+[Prompt 4]
+Q: What are the tuition fees at ALU?
+A: The annual tuition fee at ALU is $3,000 per year. Additional costs for accommodation, meals, and study materials may apply. Flexible payment plans are available.
+
+[Prompt 5]
+Q: Does ALU offer financial aid?
+A: Yes, ALU offers need-based scholarships and grants. Eligibility is determined based on financial need, academic potential, and other criteria. Priority is given to certain groups, such as females, refugees, and displaced individuals.
